@@ -1,66 +1,126 @@
-# 🚀 HI I'm Samarth Bharat Jadhav
-
-<p align = "left">![3D Programmer Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)</p>
----
-
-## 🌟 Languages and Tools
+<h1 align="center">Hi there, I'm Samarth Jadhav 👋</h1>
 
 <p align="center">
-  <!-- Add badges for tools and languages here -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://media.giphy.com/media/xT0GqojzovBNipg6hi/giphy.gif" alt="Coding Animation" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samarth-jadhav&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+<h2 align="center">About Me</h2>
 <p align="center">
-  <!-- Language Usage Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-jadhav&layout=compact&theme=radical" alt="Top Languages">
-  <br>
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=samarth-jadhav&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth-jadhav&theme=radical" alt="GitHub Streak">
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/samarth-jadhav">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/samarth-jadhav">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://linkedin.com/in/samarth-jadhav">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/samarth-jadhav">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:samarth.jadhav@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 🎨 Creative Interface
-
-- **Animated Rocket Launch**: The animated GIF adds a dynamic and engaging element to your profile.
-- **Language and Tool Badges**: Visual representation of your skills with colorful badges for each tool and language.
-- **GitHub Stats Visualization**: Includes compact language usage stats, GitHub activity stats, and streak stats for a comprehensive view of your contributions.
-- **Interactive Buttons**: Redirect users to your GitHub, LinkedIn, and email with custom-designed buttons.
-
-> **Pro Tip:** Customize the themes and layouts by modifying the URLs of the GitHub stats images to match your style preferences.
+<h2 align="center">🚀 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samarth-jadhav&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-jadhav&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth-jadhav&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 🎉 Thank You for Visiting!
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Sklearn" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
 
-Feel free to explore my repositories and connect with me!
+---
 
+<h2 align="center">📚 Projects</h2>
+
+<h3 align="center">Project 1: <a href="https://github.com/samarth-jadhav/AI-Based-Fire-Alarm-System">AI-Based Fire Alarm System</a></h3>
+<p align="center">
+  <img src="https://github.com/samarth-jadhav/AI-Based-Fire-Alarm-System/blob/main/demo.gif" alt="AI-Based Fire Alarm System" width="600" />
+</p>
+<p align="center">
+  Description: A machine learning project using computer vision to detect fire using a camera module without sensors.
+</p>
+<p align="center">
+  <a href="https://github.com/samarth-jadhav/AI-Based-Fire-Alarm-System">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link" />
+  </a>
+  <a href="https://ai-based-fire-alarm-system-demo-link.com">
+    <img src="https://img.shields.io/badge/Live Demo-000000?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+<h3 align="center">Project 2: <a href="https://github.com/samarth-jadhav/PCB_Anomaly_Detection">PCB Anomaly Detection</a></h3>
+<p align="center">
+  <img src="https://github.com/samarth-jadhav/PCB_Anomaly_Detection/blob/main/demo.gif" alt="PCB Anomaly Detection" width="600" />
+</p>
+<p align="center">
+  Description: A system using infrared images to detect faults in PCB components by identifying overheated areas.
+</p>
+<p align="center">
+  <a href="https://github.com/samarth-jadhav/PCB_Anomaly_Detection">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link" />
+  </a>
+  <a href="https://pcb-anomaly-detection-demo-link.com">
+    <img src="https://img.shields.io/badge/Live Demo-000000?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+<h3 align="center">Project 3: <a href="https://github.com/samarth-jadhav/Leaf-Disease-Detection">Leaf Disease Detection</a></h3>
+<p align="center">
+  <img src="https://github.com/samarth-jadhav/Leaf-Disease-Detection/blob/main/demo.gif" alt="Leaf Disease Detection" width="600" />
+</p>
+<p align="center">
+  Description: A machine learning project to detect diseases in leaves to assist farmers in early identification and treatment.
+</p>
+<p align="center">
+  <a href="https://github.com/samarth-jadhav/Leaf-Disease-Detection">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link" />
+  </a>
+  <a href="https://leaf-disease-detection-demo-link.com">
+    <img src="https://img.shields.io/badge/Live Demo-000000?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">💬 Contact Me</h2>
+<p align="center">
+  <a href="mailto:samarth.jadhav@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/samarth-jadhav">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/samarth-jadhav">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="Coding Animation" width="600" />
+</p>
