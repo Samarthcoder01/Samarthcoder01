@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Manish Dhatrak 👋</h1>
+<h1 align="center">Hi there, I'm Samarth Jadhav 👋</h1>
 
 <p align="center">
   <img src="https://github.com/astromanu007/profile-images/blob/main/White%20and%20Blue%20Digital%20Marketing%20Specialist%20Linkedin%20Article%20Cover%20Image.png" alt="LinkedIn Banner" width="600" />
