@@ -24,10 +24,10 @@
 <p align="center">
   <!-- Language Usage Stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-jadhav&layout=compact&theme=radical" alt="Top Languages">
-  
+  <br>
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=samarth-jadhav&show_icons=true&theme=radical" alt="GitHub Stats">
-  
+  <br>
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth-jadhav&theme=radical" alt="GitHub Streak">
 </p>
