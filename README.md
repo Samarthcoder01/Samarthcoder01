@@ -1,7 +1,5 @@
-# 🚀 Samarth Bharat Jadhav
-
-![Rocket Launch Animation](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
-
+# 🚀 HI I'm Samarth Bharat Jadhav
+![3D Programmer Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ---
 
 ## 🌟 Languages and Tools
