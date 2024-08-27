@@ -1,5 +1,6 @@
 # 🚀 HI I'm Samarth Bharat Jadhav
-![3D Programmer Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+<p align = "left">![3D Programmer Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)</p>
 ---
 
 ## 🌟 Languages and Tools
